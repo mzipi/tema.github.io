@@ -1,5 +1,3 @@
-# Michell Zipitría
-
 ## Blog
 
 - item 1
